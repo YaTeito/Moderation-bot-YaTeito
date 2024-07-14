@@ -1,5 +1,5 @@
 settings = {
-    "TOKEN": "MTE3MjU2ODc2NzYxNjc4NjUyMg.GFd9xn.AoEt26NDTu3QGJUxFKlz6Q_A7xjjmHd8B9yU78", # токен бота
+    "TOKEN": "", # токен бота
     "commands": [
         "commands.moderation.action",
         "commands.moderation.selection"
